@@ -1,0 +1,19 @@
+{
+  "mesh":[{
+    "position":[0,0,0],
+    "color":"red",
+    "args":[1,1,1]
+  },
+
+  {
+    "position":[2,1,1],
+    "color":"blue",
+    "args":[2,1,1]
+  },
+  {
+    "position":[-2,1,1],
+    "color":"green",
+    "args":[-2,1,1]
+  }
+]
+}

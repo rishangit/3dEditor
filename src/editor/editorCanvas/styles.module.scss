@@ -1,0 +1,12 @@
+.CanvasWrapper{
+  width: calc(100% - 200px);
+  height: 100%;
+  position: fixed;
+}
+
+.toolWindowWrapper{
+  width: 200px;
+  height: 100%;
+  position: fixed;
+  left: 200px;
+}
